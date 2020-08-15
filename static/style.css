@@ -1,0 +1,67 @@
+.btn:hover {
+    color:black;
+    background: whitesmoke;
+ 
+  }
+.btn{
+color: green;
+   margin-top:2cm;
+   margin-left:50%
+   width: 150px;
+   font-family: "Times New Roman", Times, serif;
+   font-weight: bold;
+   margin-bottom: 2.5cm;
+}
+
+.fab{
+    text-align: center;
+    color: black;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    padding-left: 150px;
+    font-size: 1.75rem;
+}
+.text-center{
+width: 100%
+padding-top: 1cm;
+padding-bottom: 0.5cm;
+margin-bottom: 1cm;
+color: white;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;;
+}
+label, input {
+    display: block;
+    margin-bottom: 20px;
+    padding: 14px 30px;
+    margin: 10px auto;
+    
+}
+
+
+#main{
+    background : url('./bg.jpg');
+    background-size: cover;
+    height: 100vh;
+    padding-bottom: 2cm;
+}
+.result{
+text-align: center;
+color: white;
+padding-top: 9cm;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+.txter{
+text-align: center;
+margin-top: 2.5cm;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+.header{
+color: #F0FFF0;
+font-family: "Times New Roman", Times, serif;
+text-align: center;
+padding-top: 5cm;
+font-weight: bold;
+}
