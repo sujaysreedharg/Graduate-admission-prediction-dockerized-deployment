@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<!-- Bootstrap CDN and external CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+     <!--google font-->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+
+     <!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/acdb1e4249.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<section id="main">
+<h2 class="text-center">Predict Your Chances of Getting an Admit in the United States</span></h2>
+        {% if message %}
+        <div class="alert alert-danger">{{ message }}</div>
+        {% endif %}
+        <!-- Text Area -->
+    	<div class="text-center">
+    	<div class="alignn">
+    		<form action="{{ url_for('predict') }}" method="POST">
+    		<label>
+                <input  type="text" class="form-input" name="gre" placeholder="GRE Score out of 340">
+                <input class="form-input" type="text" name="toefl" placeholder="TOEFL Score out of 120">
+                <input class="form-input" type="text" name="Universityrating" placeholder="UG University Tier 1 to 5">
+                <input class="form-input" type="text" name="sop" placeholder="SOP Rating of 1 to  5">
+                <input class="form-input" type="text" name="lor" placeholder="LOR Rating of 1 to  5">
+                <input class="form-input" type="text" name="gpa" placeholder="UG GPA out of 10">
+                <input class="form-input" type="text" name="re" placeholder="Research : 0-No 1-Yes"><br>
+        		</label>
+        		
+               	</div>
+               	<input type="submit" class="btn" value="Predict My Chances">
+        	</form>
+    	</div>
+    	  </section>
+<h2 class="txter">Developed and Deployed using Machine Learning by Sujay</span></h2>
+          <section id="footer" class=" fab  mx-auto ">
+            <a href="https://www.instagram.com/sujayforever/"> <i class="fab fa-instagram  sec">       Instagram</i>
+            <a href="https://www.kaggle.com/sujay12345/"><i class="fab fa-kaggle sec">      Kaggle</i></i>
+
+            <a href="https://www.github.com/sujay12345"> <i class="fab fa-github  sec">    Github</i>
+                <a href="https://www.linkedin.com/in/sujays1234"><i class="fab fa-linkedin  sec">    Linkedin</i>
+            
+        
+           </section>
+ <!-- Bootstrap's Javascript -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+ </body>
+</html>
