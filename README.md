@@ -4,7 +4,7 @@
 
 
 • If you want to view the deployed model, click on the following link:<br />
-Deployed at: _https://https://graduate-admissions-prediction.herokuapp.com/_
+Deployed at: _https://graduate-admissions-prediction.herokuapp.com/_
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
 Link: _https://github.com/sujay12345/Machine-learning-Graduate-admission-possibilty-in-the-US_
