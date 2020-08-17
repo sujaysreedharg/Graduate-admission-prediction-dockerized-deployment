@@ -21,8 +21,3 @@ How it works <br>
 
 ![GIF](readmegif/dockfile.gif)
 
-If you see the below shown error it is because of the heroku platform. You can revisit this the next month.
-
-
-![Heroku-Error](readmegif/application-error-heroku.png)
-
