@@ -11,7 +11,7 @@ http://www.ijtrd.com/papers/IJTRD22200.pdf
 https://www.youtube.com/watch?v=8SlhHMmz5yg
 
 <br>
-# Try this website by yourself:<br />
+# Try this website by yourself: <br>
 https://graduate-admissions-prediction.herokuapp.com/
 
 For the complete Machine Learning model Implementation and analysis:<br />
