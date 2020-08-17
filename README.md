@@ -1,4 +1,4 @@
-# Graduate Admission Prediction - Deployment
+# Graduate Admission Prediction Machine Learning Model Docker Containerized Deployment On Heroku Cloud
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 This Machine Learning model uses (Supervised Machine Learning)Linear Regression to predict the possibility of a person getting an admit in the US. Cleaned the dataset Performed Exploratory Data Analysis Predicted using Linear Regression.
