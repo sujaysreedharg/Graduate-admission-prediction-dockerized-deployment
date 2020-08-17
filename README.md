@@ -17,7 +17,7 @@ https://graduate-admissions-prediction.herokuapp.com/
 For the complete Machine Learning model Implementation and analysis:<br />
 Link: _https://github.com/sujay12345/Machine-learning-Graduate-admission-possibilty-in-the-US_
 
-How it works <br>
+ # The Dockerized version's working model: <br>
 
 ![GIF](readmegif/dockfile.gif)
 
