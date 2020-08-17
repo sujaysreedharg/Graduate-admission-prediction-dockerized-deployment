@@ -21,8 +21,7 @@ How it works <br>
 
 ![GIF](readmegif/dockfile.gif)
 
-
-If you see this webapp as shown below, it is because the free dynos for this particular month provided by Heroku have been completely used as this is a free platform.
+If you see the below shown error it is because of the heroku platform. You can revisit this the next month.
 
 
 ![Heroku-Error](readmegif/application-error-heroku.png)
