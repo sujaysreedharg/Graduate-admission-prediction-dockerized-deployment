@@ -7,6 +7,8 @@ This Machine Learning model uses (Supervised Machine Learning)Linear Regression 
 # Checkout the research paper : <br>
 http://www.ijtrd.com/papers/IJTRD22200.pdf
 
+# My Docker Implementation Youtube tutorial : <br>
+https://www.youtube.com/watch?v=8SlhHMmz5yg
 Try this website at:<br />
  https://graduate-admissions-prediction.herokuapp.com/
 
