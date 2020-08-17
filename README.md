@@ -10,7 +10,7 @@ http://www.ijtrd.com/papers/IJTRD22200.pdf
 # My Docker Implementation Youtube tutorial : <br>
 https://www.youtube.com/watch?v=8SlhHMmz5yg
 
-<br>
+
 # Try this website by yourself: <br>
 https://graduate-admissions-prediction.herokuapp.com/
 
@@ -22,7 +22,7 @@ How it works <br>
 ![GIF](readmegif/dockfile.gif)
 
 
-If you encounter this webapp as shown below free dynos for this particular month provided by Heroku have been completely used as this is a free platform.
+If you see this webapp as shown below, it is because the free dynos for this particular month provided by Heroku have been completely used as this is a free platform.
 
 
 ![Heroku-Error](readmegif/application-error-heroku.png)
