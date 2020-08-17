@@ -9,8 +9,10 @@ http://www.ijtrd.com/papers/IJTRD22200.pdf
 
 # My Docker Implementation Youtube tutorial : <br>
 https://www.youtube.com/watch?v=8SlhHMmz5yg
+
+<br>
 Try this website at:<br />
- https://graduate-admissions-prediction.herokuapp.com/
+https://graduate-admissions-prediction.herokuapp.com/
 
 For the complete Machine Learning model Implementation and analysis:<br />
 Link: _https://github.com/sujay12345/Machine-learning-Graduate-admission-possibilty-in-the-US_
